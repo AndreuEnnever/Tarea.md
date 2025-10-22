@@ -8,3 +8,8 @@ El puerto PS/2 es un conector mini-DIN de 6 pines utilizado para conectar alguno
 ![Conecor 3](3OOO3.png) 
 
 es una interfaz entre un computador y un periférico, cuya principal característica es que los bits de datos viajan juntos, enviando un paquete de byte a la vez. 
+
+![Concetor 4r](rr4D.png) 
+
+El conector Video Graphics Array (VGA) es un conector estándar que se utiliza para la salida de video de la computadora.
+
